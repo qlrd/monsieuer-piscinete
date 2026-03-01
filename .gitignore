@@ -1,3 +1,5 @@
+monsieuer-piscinete
+*.o
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
